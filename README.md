@@ -10,5 +10,12 @@ Entrega da avaliação prática N2 da disciplina de Banco de Dados, ministrada p
 - Lorenzo Foralosso Kochemborger
 - Matheus Henrique Pompeu
 
+## Decisões Técnicas
+
+- UUIDs como chaves primárias em todas as entidades
+- JSONB para enunciados e alternativas de questões, suportando fórmulas, tabelas e referências a imagens
+- Trigger para criação automática de perfil ao registrar novo usuário na autenticação
+- ON DELETE CASCADE em respostas ao deletar uma questão
+- RLS com isolamento por papel: alunos acessam apenas seus próprios dados; admins escolares acessam apenas dados de sua instituição; banco de questões é leitura pública para autenticados
 
 ---
