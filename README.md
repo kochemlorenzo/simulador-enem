@@ -20,6 +20,6 @@ Entrega da avaliação prática N2 da disciplina de Banco de Dados, ministrada p
 
 🔗 DER do Projeto:
 
-<img width="2263" height="939" alt="image" src="https://github.com/user-attachments/assets/bdb23182-e186-4d25-9273-7fdaf08b3b2f" />
+![DER](der/DER_-__N2_Banco_de_Dados_Simulador_ENEM.png)
 
 ---
