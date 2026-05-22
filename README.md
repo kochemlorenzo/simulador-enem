@@ -18,4 +18,8 @@ Entrega da avaliação prática N2 da disciplina de Banco de Dados, ministrada p
 - ON DELETE CASCADE em respostas ao deletar uma questão
 - RLS com isolamento por papel: alunos acessam apenas seus próprios dados; admins escolares acessam apenas dados de sua instituição; banco de questões é leitura pública para autenticados
 
+🔗 DER do Projeto:
+
+<img width="2263" height="939" alt="image" src="https://github.com/user-attachments/assets/bdb23182-e186-4d25-9273-7fdaf08b3b2f" />
+
 ---
